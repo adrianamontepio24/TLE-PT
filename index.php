@@ -16,7 +16,7 @@
 <font size="70" color="red"> TODAY </font>
 <br>
 </br>
-<font size"10" color="white"> AND </font>
+<font size"10" color="black"> AND </font>
 </br>
 <br>
 <font size="70" color="blue"> TOMORROW </font>
